@@ -7,10 +7,11 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Paul Davidson',
-  role: 'Front End Engineer',
+  role: 'Full Stack Developer',
   description:
-    'Adipisicing sit fugit ullam unde aliquid sequi Facilis soluta facilis perspiciatis corporis nulla aspernatur. Autem eligendi rerum delectus modi quisquam? Illo ut quasi nemo ipsa cumque perspiciatis! Maiores minima consectetur.',
-  resume: 'https://example.com',
+    'Before I returned to my original passion of software engineering I was a multimedia engineer',
+  resume:
+    'https://drive.google.com/file/d/1jlMsla9vm7VFwQLaNn4cBoNp6FR0TKg7/view',
   social: {
     linkedin: 'https://www.linkedin.com/in/pauledavidson',
     github: 'https://github.com/Pashovski',
@@ -23,7 +24,7 @@ const projects = [
   {
     name: 'Support Desk',
     description: 'MERN app that allows users to create edit support tickets',
-    stack: ['MongoDB', 'Express.js', 'React', 'Node.js'],
+    stack: ['MongoDB', 'Express', 'React', 'Node'],
     sourceCode: 'https://github.com/Pashovski/support-desk',
     livePreview: 'https://davidsonsupportdesk.herokuapp.com/',
   },
