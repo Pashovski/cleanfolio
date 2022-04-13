@@ -36,7 +36,7 @@ const projects = [
     name: 'Github Finder',
     description: 'A React App that allows users to search Github Accounts',
     stack: ['Tailwind', 'DaisyUI', 'React'],
-    sourceCode: 'https://github.com',
+    sourceCode: 'https://github.com/Pashovski/github-finder',
     livePreview: 'https://github-finder-three-theta.vercel.app/',
   },
 ]
