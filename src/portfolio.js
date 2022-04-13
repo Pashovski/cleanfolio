@@ -1,11 +1,9 @@
 const header = {
-  // all the properties are optional - can be left empty or deleted
-  homepage: 'https://rajshekhar26.github.io/cleanfolio',
+  homepage: 'https://www.linkedin.com/in/pauledavidson',
   title: 'PD.',
 }
 
 const about = {
-  // all the properties are optional - can be left empty or deleted
   name: 'Paul Davidson',
   role: 'Full Stack Developer',
   description:
@@ -19,8 +17,6 @@ const about = {
 }
 
 const projects = [
-  // projects can be added an removed
-  // if there are no projects, Projects section won't show up
   {
     name: 'Support Desk',
     description: 'MERN app that allows users to create edit support tickets',
@@ -46,8 +42,6 @@ const projects = [
 ]
 
 const skills = [
-  // skills can be added or removed
-  // if there are no skills, Skills section won't show up
   'HTML',
   'CSS',
   'JavaScript',
@@ -60,7 +54,6 @@ const skills = [
 ]
 
 const contact = {
-  // email is optional - if left empty Contact section won't show up
   email: 'pauleugenedavidson@gmail.com',
 }
 
